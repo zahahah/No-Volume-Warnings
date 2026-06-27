@@ -20,13 +20,13 @@ GitHub releases.
 ## Installation
 
 1. Download `NoVolumeWarning-LightningZahah.zip` to your phone.
-2. Open the KernelSU app.
+2. Open the KernelSU/Magisk app.
 3. Go to **Modules**.
 4. Tap **Install from storage**.
 5. Select `NoVolumeWarning-LightningZahah.zip`.
-6. Wait for KernelSU to finish installing the module.
+6. Wait for KernelSU/Magisk to finish installing the module.
 7. Reboot the device.
-8. After reboot, confirm that the module is enabled in KernelSU.
+8. After reboot, confirm that the module is enabled in KernelSU/Magisk.
 
 The module will install the overlay at:
 
