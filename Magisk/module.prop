@@ -1,0 +1,6 @@
+id=No_Volume_Warnings
+name=No Volume Warnings
+version=v1.0.0
+versionCode=100
+author=lightningzahah
+description=Disables Android high-volume warnings on Pixel 10 with a KernelSU product overlay

@@ -1,0 +1,3 @@
+audio.safemedia.bypass=true
+audio.safemedia.force=false
+audio.safemedia.csd.force=false

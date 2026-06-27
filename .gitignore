@@ -1,0 +1,13 @@
+/Overlay/app/build
+/Overlay/build
+/Overlay/.gradle
+/Magisk/system/vendor/overlay/NoVolumeWarnings.apk
+.env
+.env.*
+.omx/
+build/
+dist/
+.cache/
+.DS_Store
+Thumbs.db
+NoVolumeWarning-*.zip

@@ -1,0 +1,9 @@
+<resources>
+    <!-- Legacy high-volume pop-up path: SoundDoseHelper checks this before enabling
+         safe media volume enforcement and SafetyWarningDialog. -->
+    <bool name="config_safe_media_volume_enabled">false</bool>
+
+    <!-- Android 14+ / Pixel 10 CSD path: disables Computed Sound Dose warning
+         generation when the platform respects resource overlays. -->
+    <bool name="config_safe_sound_dosage_enabled">false</bool>
+</resources>
